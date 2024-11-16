@@ -1,4 +1,4 @@
-local speed = 50
+local speed = 300
 
 local plr = game:GetService("Players").LocalPlayer
 repeat task.wait() until plr.Character
